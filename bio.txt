@@ -1,21 +1,43 @@
 About Vicky:
-Vicky is a seasoned professional with expertise in AI, Data Science, Blockchain, and Cloud technologies. Holding an undergraduate degree in Computer Science from the University of Techville (2010), Vicky is committed to delivering innovative solutions and offers valuable resources at cognitiveclass.ai.
+Ali Hassan is a passionate software engineer with a focus on solving complex problems and uniting teams to build solid user experiences. He is currently working on web development and AI powered command line tools for storytelling through code and has a keen interest in open-source AI research.
+
 
 Work Experience:
-Data Scientist at IBM (2015-2019); Software Developer at IBM (2010-2015)
+C# Developer at Geometric Information Model (GIM) (April 2022 - Present)
+Develops and maintains advanced backend algorithms for CAD file compression and conversion.
+Utilizes C# for algorithmic development and handles complex geometric data.
+
+Executive Director at Teen Musafir (May 2019 - Present)
+Co-founded 3Musafir Private Limited, which serves a large travel tech community in Pakistan.
+
+Technology Ambassador at DP World (September 2021 - April 2022)
+Showcased DP World at Expo 2020 and developed professional relationships to enhance business practices.
+
+Future Innovator at Telenor Microfinance Bank Limited (March 2021 - September 2021)
+
+Software Quality Assurance Intern at Expertflow (August 2018 - September 2018)
+
+Technical Lab Assistant at COMSATS Networking Academy (February 2018 - June 2018)
 
 Career Goal:
-Vicky's career goal is to leverage their expertise in AI and emerging technologies to drive meaningful innovation and create solutions that positively impact businesses and society.
+Ali's career goal is to continue enhancing algorithms for better efficiency and speed, contributing significantly to the field of open-source AI research.
+
 
 Skills: 
-AI, Data Science, Blockchain, Cloud, Python
+Start-up Leadership, Node.js, Large Language Models (LLM), C#, Geometric Data Handling, CAD File Conversion, Algorithm Development and Python
 
 Certification:
-IBM Applied AI Professional Certificate (2023)
+Neural Networks and Deep Learning
+Microsoft Office Specialist (PowerPoint 2013, Word 2016)
+Amazon Fundamentals: Going Cloud-Native
+Python for Data Science and AI
+Building Conversational Experiences with Dialogflow
+Cisco Certified Network Associate (Routing and Switching, 2018)
 
 Achievements:
-Spearheaded AI projects at IBM, resulting in a 30% increase in user engagement.
-Utilized IBM's watsonx service to help over 1000 companies from various domains automate their HR processes, from hiring to onboarding, contributing to a 100% positive feedback rate from companies.
+McKinsey Forward's first global ambassador from Asia
+Veteran AIESECER with projects in Amsterdam, Dubai, Istanbul
+Co-founded Pakistan's largest travel tech community
 
 Contact:
 LinkedIn: https://www.linkedin.com/in/vicky-tck
@@ -23,19 +45,27 @@ Phone: 123-456-789
 Location: Toronto, Ontario
 
 Strengths and Advantages:
-Vicky's strengths lie in a profound passion for technology, innovative problem-solving, and client-centric solutions.
+Strong problem-solving skills
+Leadership and team collaboration
+Expertise in C# and geometric data handling
+Experience in CAD technology and file conversion
+Multilingual (English, Hindi, Urdu)
 
 Weaknesses and Disadvantages:
-Vicky's unwavering pursuit of excellence may occasionally lead to in-depth analysis, but it ensures the delivery of high-quality services.
+Limited experience in industries outside of CAD and travel tech
 
 Interests and Hobbies:
-Vicky's passion for technology extends into leisure hours, where they delve into the cutting-edge realm of GenAI, continuously pushing the boundaries of what can be achieved in various projects. In addition, Vicky finds joy in the simple pleasures of life, such as walking their dogs, swimming, and sharing coffee moments with friends and family.
+Ali's passion for technology extends into leisure hours, where they delve into the cutting-edge realm of GenAI, continuously pushing the boundaries of what can be achieved in various projects. In addition, Ali finds joy in the simple pleasures of life, such as playing table tennis and hiking with friends and family.
 
 Portfolio:
-Explore Vicky's portfolio of innovative projects at cognitiveclass.ai, showcasing expertise and tailored solutions. This website also serves as a showcase for some of Vicky's remarkable projects. Constructed using generative AI and Python, the website aims to inspire visitors with innovative ideas on seamlessly integrating generative AI into their own portfolio websites. Feel free to explore and ignite your creativity!
+Explore Vicky's portfolio of innovative projects at:
+1. GitHub
+2. itinerary.streamlit.app 
+3. shellbuddy.com
+4. 3Musafir.com
 
 Availability:
-Vicky is actively seeking new opportunities and is ready to start immediately.
+Vicky is actively seeking new opportunities in the genAI space.
 
 References:
 References are available upon request.
