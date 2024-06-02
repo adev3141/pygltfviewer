@@ -8,7 +8,7 @@ Develops and maintains advanced backend algorithms for CAD file compression and 
 Utilizes C# for algorithmic development and handles complex geometric data.
 
 Executive Director at Teen Musafir (May 2019 - Present)
-Co-founded 3Musafir Private Limited, which serves a large travel tech community in Pakistan.
+Co-founded 3Musafir Private Limited in 2019 as a student, which serves a large travel tech community in Pakistan.
 
 Technology Ambassador at DP World (September 2021 - April 2022)
 Showcased DP World at Expo 2020 and developed professional relationships to enhance business practices.
