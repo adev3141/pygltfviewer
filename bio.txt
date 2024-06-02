@@ -40,14 +40,16 @@ Veteran AIESECER with projects in Amsterdam, Dubai, Istanbul
 Co-founded Pakistan's largest travel tech community
 
 Contact:
-LinkedIn: https://www.linkedin.com/in/vicky-tck
-Phone: 123-456-789
-Location: Toronto, Ontario
+LinkedIn: https://www.linkedin.com/in/ali-hassanm381/
+Location: Lahore, Pakistan
 
 Strengths and Advantages:
 Strong problem-solving skills
 Leadership and team collaboration
 Expertise in C# and geometric data handling
+Expertise in NodeJs
+Expertise in docker and kubernetes
+Strong technical communication skills
 Experience in CAD technology and file conversion
 Multilingual (English, Hindi, Urdu)
 
@@ -65,7 +67,7 @@ Explore Vicky's portfolio of innovative projects at:
 4. 3Musafir.com
 
 Availability:
-Vicky is actively seeking new opportunities in the genAI space.
+Ali is actively seeking new opportunities in the genAI space.
 
 References:
 References are available upon request.

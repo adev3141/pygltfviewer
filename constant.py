@@ -1,13 +1,13 @@
 info = {
-   "Pronoun": "her", 
-   "Name": "Vicky",
-   "Full_Name": "Vicky Kuo",
-   "Intro": "A Tech Educator and AI Enthusiast at cognitiveclass.ai",
-   "About":"Hey there, I'm Vicky! I'm passionate about leveraging data and technology to drive meaningful insights and solutions in business. Check out my free courses and projects on cognitiveclass.ai: https://cognitiveclass.ai/",
-   "Tableau":"https://public.tableau.com/app/profile/vickytc/viz/SunnybrookTeam/Overview",
-   "Medium":"https://medium.com/@vicky-note/about",
-   "City":"Toronto, Canada",
-   "Photo":"""<a href=\"https://www.linkedin.com/in/vicky-tck/\"><img src=\"https://sn-assets.s3.us.cloud-object-storage.appdomain.cloud/projects/profile.png" width=\"200\"   alt=\"Profile\" title=\"Profile\"></a>""",
+   "Pronoun": "Him", 
+   "Name": "ADev",
+   "Full_Name": "Ali Hassan",
+   "Intro": "A Software Engineer and LLM enthusiast.",
+   "About":"Hey there, I'm ADev! I'm crazy about building scalable AI centric web apps.",
+   "GitHub":"https://github.com/adev3141",
+   "Medium":"https://medium.com/@alihassanm381/about",
+   "City":"Lahore, Pakistan",
+   "Photo":"""<a href=\"https://www.linkedin.com/in/ali-hassanm381/\"><img src=\"https://sn-assets.s3.us.cloud-object-storage.appdomain.cloud/projects/profile.png" width=\"200\"   alt=\"Profile\" title=\"Profile\"></a>""",
    "Email": "vicky.kuo.contact@gmail.com"
 }
 
